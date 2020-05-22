@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Arbutus+Slab|Open+Sans:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+
+
+<body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+
+<section class="site-section block__62272" id="research-section">
+	<div class="container">
+		<div class="row mb-5">
+		
+		<div class="col-12 mb-4 position-relative">
+            	<h2 class="section-title">Sequencing Seismograms: A Panoptic View of Scattering in the Core-Mantle Boundary Region</h2>
+          	</div>
+
+
+			<div class="col-lg-10">
+        		<h5>Overview</h5>
+        		</div>
+
+			<div class="col-lg-12">
+        <p align="justify">Previous approaches using scattering of seismic waves have revealed subsurface structures on the core-mantle boundary region, but in a piecemeal way focused on specific target areas. With collaborators at the University of Maryland and Johns Hopkins University, we are able to systematically analyze thousands of seismograms of waves diffracting along the core-mantle boundary and obtain a panoptic view of scattering across the Pacific. In nearly half of the diffracting waveforms, we detected seismic waves scattered by 3D structures near the core-mantle boundary. By sequencing seismograms, we find an previously unrecognized ultralow-velocity zone (ULVZ) beneath Marquesas Islands, and pervasive scattering near the core-mantle boundary, strongest from a plume root under Hawaii.</p>
+			</div>
+
+			<div class="col-lg-10">
+             		<img src="images_science/summary.JPG" alt="Image" class="img-fluid">
+        		</div>
+
+
+
+			<div class="col-lg-10">
+        		<h5>Ultralow-Velocity Zones (ULVZs)</h5>
+        		</div>
+
+			<div class="col-lg-12">
+        <p align="justify">In the Earth's core-mantle boundary region, robustly identifying scattered waves has led to new discoveries. Seismically-imaged structure near the core-mantle boundary span a wide range of scales with ~5000 km Large Low Shear Velocity Provinces (LLSVPs) at one end, and ~100 km-scale ULVZs on the other. So-called mesoscale structures have also been found, including the Perm and Kamchatka anomalies, as well as unusually large ULVZs. ULVZs in particular are characterized by dramatically reduced velocities (e.g., ~30% and 10% for Vp and Vs, respectively). Although a recent study show LLSVPs and ULVZs are tied to isotopic heterogeneities measured in ocean island basalts, the origin of and relationships among those core-mantle boundary region structures largely remain controversial.</p>
+			</div>
+
+
+			<div class="col-lg-12">
+             		<img src="images_science/llsvps_ulvz.JPG" alt="Image" class="img-fluid">
+        		</div>
+
+
+			
+
+			<div class="col-lg-10">
+        		<h5>How Can We Detect ULVZs?</h5>
+        		</div>
+
+			<div class="col-lg-6">
+        <p align="justify">Many seismic phases are used in previous ULVZ studies. Because these phases (e.g., ScS, SPdKS, Sdiff, etc.) directly interact with the core-mantle boundary region, we are able to detect and model such anomalous structures. In this study we focused on shear waves diffracting along the core-mantle boundary (Sdiff), because they sample large areas at the base of the mantle. Waves scattered by heterogeneity in this region arrive after the main Sdiff phase, so the timing and amplitude of these Sdiff "postcursors" can constrain the location and nature of structures producing the scattering. To avoid any other bodywave traffic in the analysis window, we selected only events with hypocenter depth greater than 200 km. Source radiation pattern effects and highlighted signals not predicted by PREM are deconvolved from the raw data.</p>
+			</div>
+
+		       	<div class="col-lg-6" mb-6 mb-lg-0">
+             		<img src="images_science/ulvz_final.gif" alt="Image" class="img-fluid">
+        		</div>
+
+
+			<div class="col-lg-10">
+        		<h5>The Sequencer</h5>
+        		</div>
+
+			<div class="col-lg-6">
+        <p align="justify">Traditionally, a standard procedure is to arrange waveforms by epicentral distance or azimuth in a targeted region to reveal trends in arrivals not predicted by models of the interior. Developed by our collaborators in Johns Hopkins University and Tel Aviv University, we made use of an unsupervised graph-based manifold learning algorithm, "the Sequencer", that orders objects to minimize dissimilarities between neighbors as well as globally across the entire sequence. In this study, the objects are Sdiff waveforms and dissimilarity is given by Wasserstein metric (also known as the Earth Mover Distance) between them. This new approach can be used to reveal the main trend present in a dataset without requiring any model at all. Other example objects include images, spectral data from distant stars, receiver functions, etc. The source code is available here. </p>
+			</div>
+
+			<div class="col-lg-6">
+             		<img src="images_science/sequencer.JPG" alt="Image" class="img-fluid">
+        		</div>
+
+		
+			<div class="col-lg-10">
+        		<h5>Pervasive scattering in the Pacific</h5>
+        		</div>
+
+			<div class="col-lg-6">
+        <p align="justify">We used the Sequencer to optimally order our collection of Sdiff waveforms across the Pacific. We identify post cursors in more than 40% of waveforms, indicating that post cursors are far more common than previously thought. Radial gradients in velocities cannot on their own explain these pervasive postcursors, regardless of ordering. Postcursors are typically absent on paths that do not cross LLSVP boundaries, instead being confined either in their interior or well outside them. Waveforms with and without postcursors seem to coexist at sub-wavelength scales (~160 km) in most locations. Many of the postcursors in northern and western Pacific have large delay times, indicating that they originate from distant scatterers and may travel through complex structures. Intriguingly, nearly all Sdiff waves sampling near Hawaii and Marquesas show postcursors.</p>
+			</div>
+
+			<div class="col-lg-6">
+             		<img src="images_science/pervasive_pc.JPG" alt="Image" class="img-fluid">
+        		</div>			
+
+
+			<div class="col-lg-10">
+        		<h5>Hawaiian ULVZ Revisited</h5>
+        		</div>
+
+			<div class="col-lg-12">
+        <p align="justify">The amplitude of postcursors in the Hawaiian region appears to be three times larger than the typical amplitude found throughout the Pacific. By plotting each waveform’s position in the sequence at the midpoint of its diffracting path, we found that waveforms with postcursors appear to the northwest of Hawaii while those without appear predominantly to the southeast. We also observed an anti-correlation between postcursor delay time and amplitude in the region, consistent with expectations for a localized wavespeed anomaly.</p>
+			</div>
+
+			<div class="col-lg-10">
+             		<img src="images_science/hawaii.JPG" alt="Image" class="img-fluid">
+        		</div>
+
+			<div class="col-lg-10">
+        		<h5>ULVZ beneath Marquesas Islands</h5>
+        		</div>
+
+			<div class="col-lg-6">
+        <p align="justify">The anti-correlation between postcursor delay time and amplitude seen from Hawaii allows to use the presence of such a correlation as a detector of localized structures. At each location across the Pacific basin, we estimated the slope and amplitude of the linear fit to the delay time and log-amplitude of postcursors with diffracting paths located within 5° of the location. As expected, we found steep negative slopes in the vicinity of Hawaii, across a region that is substantially larger than anywhere else in the Pacific basin. In addition, we also detected a similar signature, with a slightly gentler slope, close to the Marquesas Islands, indicating a previously unidentified local wavespeed anomaly.</p>
+			</div>
+
+			<div class="col-lg-4">
+             		<img src="images_science/marquesas.JPG" alt="Image" class="img-fluid">
+        		</div>
+
+			<div class="col-lg-10">
+        		<h5>Summary</h5>
+        		</div>
+
+			<div class="col-lg-12">
+        <p align="justify">Our systematic postcursor search in the Pacific basin, interpreted with insights from waveform simulations, reveals that heterogeneity capable of producing postcursors is widespread in the CMB region. We found that strong postcursors exhibit an anti-correlation between delay time and log-amplitude which can be detected locally. The two strongest postcursor signals in the Pacific are related to Marquesas and a broad region near Hawaii. The previously unknown localized anomaly near Marquesas has dimensions similar to that of a mega-ULVZ. The anomaly beneath Hawaii is unique in the Pacific basin, producing postcursors that can only be explained by a structure either substantially larger than a mega-ULVZ or by a plume conduit. Weaker postcursors are observed throughout the Pacific basin and do not exhibit a correlation between delay time and amplitude. They are best explained by scattering from laterally-abrupt edges of LLSVPs (5% VS contrast).</p>
+			</div>
+
+			<div class="col-lg-10">
+             		<img src="images_science/wf_models.JPG" alt="Image" class="img-fluid">
+        		</div>
+
+
+		</div>
+	</div>
+
+
+ </body>
+</html>
