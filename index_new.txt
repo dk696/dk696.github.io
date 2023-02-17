@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Doyeon Kim, Ph.D.</title>
+    <meta name="description=" content="Doyeon Kim is a postdoctoral associate at University of Maryland, College Park, conducting research in geophysics.">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Arbutus+Slab|Open+Sans:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+  
+    <div class="site-wrap">
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+   
+    <header class="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
+      <div class="container-fluid">
+        <div class="row align-items-center justify-content-center">
+          
+        <div class="">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+            <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                <li><a href="#about-section" class="nav-link">ABOUT</a></li>
+                <li><a href="#publications-section" class="nav-link">PUBLICATIONS</a></li>
+                <li><a href="#contact-section" class="nav-link">CONTACT</a></li>
+            </ul>
+            </nav>
+        </div>
+          
+        <div class="d-inline-block d-lg-none" style="position: relative; top: 3px;">
+            <a href="#" class="site-menu-toggle js-menu-toggle float-right">
+<div class="icon"></div>
+<div class="icon"></div>
+<div class="icon"></div>
+        </a>
+        </div>
+        
+        </div>
+        
+      </div>
+      
+    </header>
+
+
+    <div class="site-blocks-cover overlay bg-light" id="home-section">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md-12 mt-lg-5 text-left align-self-center text-intro">
+            <div class="row">
+              <div class="col-lg-6">
+                <h1 class="text-black">Doyeon Kim</h1>
+                <p class="lead">Ph.D. in Geophysics</p>
+                <!--<p><a href="#about-section" class="btn smoothscroll btn-primary">Bio</a></p>-->
+		<p><a href="pdfs/CV_dk_2021_3.pdf" class="btn smoothscroll btn-primary" target="_blank">Curriculum Vitae</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <img src="images/main.JPG" alt="Image" class="img-face" data-aos="fade">
+      
+    </div>  
+    
+    <div class="site-section" id="about-section">
+      <div class="container">
+        <div class="row ">
+          <div class="col-12 mb-4 position-relative">
+            <h2 class="section-title">About me</h2>
+          </div>
+          <div class="col-lg-4 order-1 order-lg-2 mb-4 mb-lg-0">
+             <img src="images/about.JPG" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-4 order-2 order-lg-1">
+            <p align="justify">I am a terrestrial and planetary seismologist with a background in both engineering and earth science. My scientific interest is to improve our understanding of processes within planetary interiors that involve interactions between contrasting materials, from the regolith and crust of the Moon and asteroids which potentially contain potentially valuable geological resources including lava tubes and void spaces, ice deposits, and magma-tectonic systems, to largely unexplored core-mantle boundary regions in deep planetary interiors. Currently, I am a senior scientist at ETH, Zürich. Below, you can reach more about my past and current </p>
+          </div>
+          <div class="col-lg-4 order-3 order-lg-3">
+            <h5>EDUCATION</h5>
+            <p>Ph.D. Geophysics, Cornell University</p>
+            <p>M.S. Civil & Env. Eng., Yonsei University</p>
+            <p>B.S. Civil & Env. Eng., Yonsei University</p>
+            <p><a href="#contact-section" class="btn smoothscroll btn-primary">Contact</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+ 
+
+    <section class="site-section"  id="publications-section">
+      <div class="container">
+        <div class="row ">
+          <div class="col-12 mb-4 position-relative">
+            <h2 class="section-title">Selected publications</h2>
+          </div>
+          
+          <div class="col-lg-4 order-2 order-lg-1">
+           <!-- <p><a href="https://scholar.google.com/citations?user=yTQmfg4AAAAJ&hl=en" target="_blank" class="btn smoothscroll btn-primary">Google Scholar</a></p> -->
+
+          </div>
+          <div class="col-lg-8 order-3 order-lg-3">
+<p align="justify">
+            Knapmeyer-Endrun, B., M. P. Panning, F. Bissig, R. Joshi, A. Khan, D. Kim, V. Lekic, B. Tauzin, S. Tharimena, M. Plasman, N. Compaire, R. F. Garcia, L. Margerin, M. Schimmel, É. Stutzmann, N. Schmerr, E. Bozdag, A-C. Plesa, M. A. Wieczorek, A. Broquet, D. Antonangeli, S. M. McLennan, H. Samuel, C. Michaut, L. Pan, S. E. Smrekar, C. L. Johnson, N. Brinkman, A. Mittelholz, A. Rivoldini, P. M. Davis, P. Lognonné, B. Pinot, J-R. Scholz, S. Stähler, M. Knapmeyer, M. van Driel, D. Giardini,W. B. Banerdt (2021), Thickness and structure of the martian crust from InSight seismic data, Science, 373, 438-443 [<a href="pdfs/Knapmeyer_Endrun_et_al_2021_Science.pdf" target="_blank">PDF</a>] [<a href="pdfs/Perspective_cover_science_2021.pdf" target="_blank">Featured in Science Cover and Perspectives</a>]
+            </p>
+<p align="justify">
+            Stähler, S., A. Khan, W. B. Banerdt, P. Lognonné, D. Giardini, S. Ceylan, M. Drilleau, A. C. Duran, R. F. Garcia, Q. Huang, D. Kim, V. Lekic, H. Samuel, M. Schimmel, N. Schmerr, D. Sollberger, É. Stutzmann, Z. Xu, D. Antonangeli, C. Charalambous, P. M. Davis, J. C. E. Irving, T. Kawamura, M. Knapmeyer, R. Maguire, A. G. Marusiak, M. P. Panning, C. Perrin, A-C. Plesa, A. Rivoldini, C. Schmelzbach, G. Zenhäusern, É. Beucler, J. Clinton, N. Dahmen, M. van Driel, T. Gudkova, A. Horleston, W. T. Pike, M. Plasman, S. E. Smrekar (2021), Seismic detection of the martian core, Science, 373, 443-448 [<a href="pdfs/Stahler_et_al_2021_Science.pdf" target="_blank">PDF</a>] [<a href="pdfs/Perspective_cover_science_2021.pdf" target="_blank">Featured in Science Cover and Perspectives</a>]
+            </p>
+<p align="justify">
+            Khan, A., S. Ceylan, M. van Driel, D. Giardini, P. Lognonné, H. Samuel, N. C. Schmerr, S. C. Stähler, A. C. Duran, Q. Huang, D. Kim, A. Broquet, C. Charalambous, J. F. Clinton, P. M. Davis, M. Drilleau, F. Karakostas, V. Lekic, S. M. McLennan, R. R. Maguire, C. Michaut, M. P. Panning, W. T. Pike, B. Pinot, M. Plasman, J-R. Scholz, R. Widmer-Schnidrig, T. Spohn, S. E. Smrekar, W. B. Banerdt (2021), Upper mantle structure of Mars from InSight seismic data, Science, 373, 434-438 [<a href="pdfs/Khan_et_al_2021_Science.pdf" target="_blank">PDF</a>] [<a href="pdfs/Perspective_cover_science_2021.pdf" target="_blank">Featured in Science Cover and Perspectives</a>]
+            </p>
+            <p align="justify">
+            Kim, D., V. Lekic, B. Menard, D. Baron, and M. Taghizadeh-Popp (2020), Sequencing seismograms: a panoptic view of scattering in core-mantle boundary region, Science, 368, 1223 [<a href="pdfs/Kim_et_al_2020_Science.pdf" target="_blank">PDF</a>] [<a href="https://www.altmetric.com/details/83859593/news" target="_blank">Media coverage</a>] [<a href="pdfs/Miller_2020_Science.pdf" target="_blank">Featured in Science Perspectives</a>]
+            </p>
+            <p align="justify">
+            Brown, L., and D. Kim (2020), Extensive sills in the continental basement from deep seismic reflection profiling, Geosciences, 10(11), 449 [<a href="pdfs/Brown_and_Kim_2020_Geosciences.pdf" target="_blank">PDF</a>]
+            </p>
+            <p align="justify">
+            Kim, D., and V. Lekic (2019), Groundwater variations from autocorrelation and receiver functions, Geophysical Research Letters, 46(23), 13722-13729 [<a href="pdfs/Kim_and_Lekic_2019_GRL.pdf" target="_blank">PDF</a>] [<a href="https://eos.org/editor-highlights/remotely-monitoring-groundwater-using-standard-techniques" target="_blank">Selected as Editor's Highlights in EOS</a> ] [<a href="https://www.iris.edu/hq/science_highlights/monitoring_groundwater_with_a_single_seismometer" target="_blank">Science Highlights by IRIS</a>] 
+            </p>
+            <p align="justify">
+            Kim, D., K. Keranen, G. Abers, and L.D. Brown (2019), Enhanced resolution of the subducting plate interface in Central  Alaska from autcorrelation of local earthquake coda, Journal of Geophysical Research: Solid Earth, 124(2), 1583-1600 [<a href="pdfs/Kim_et_al_2019_JGR.pdf" target="_blank">PDF</a>]
+            </p>
+            <p align="justify">
+            Kim, D., and L. D. Brown (2019), From trash to treasure: 3D basement imaging with “excess” data from oil and gas exploration, AAPG Bulletin, 103(7), 1691-1701 [<a href="pdfs/Kim_and_Brown_2019_AAPG_Bulletin.pdf" target="_blank">PDF</a>]
+            </p>
+            <p align="justify">
+            Kim, D., L. D. Brown, K. Arnason, O. Gudmundsson, K. Agustsson, O. G. Flovenz (2018), Magma “bright spots” mapped beneath Krafla, Iceland, using RVSP imaging of reflected waves from microearthquakes, Journal of Volcanology and Geothermal Research, 391, 106365 [<a href="pdfs/Kim_et_al_2018_JVGR.pdf" target="_blank">PDF</a>]
+	    </p>
+            <p align="justify">
+            Kim, D., L. D. Brown, K. Arnason, K. Agustsson, and H. Blanck (2017), Magma reflection imaging in Krafla, Iceland, using microearthquake sources, Journal of Geophysical Research: Solid Earth, 122(7), 5228-5242 [<a href="pdfs/Kim_et_al_2017_JGR.pdf" target="_blank">PDF</a>]
+            </p>
+            <p align="justify">
+            Quiros, D. A., L. D. Brown, and D. Kim (2016), Seismic interferometry of railroad induced ground motions: body and surface wave imaging, Geophysical Journal of International, 205(1), 301-313 [<a href="pdfs/Quiros_et_al_2016_GJI.pdf" target="_blank">PDF</a>]
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+
+    <footer class="site-section footer" id="contact-section">
+      <div class="container op" >
+        <div class="row mb-5">
+        <div class="col-12 mb-4 position-relative">
+            <h2 class="section-title">Contact</h2>
+          </div>
+         
+         <div class="col-md-4">
+            <h3 class="footer-title">Address</h3>
+            <p><span class="d-inline-block d-md-block">8000 Regents Dr.,</span> College Park, Maryland, USA</p>
+          </div>
+          
+          <div class="col-md-4">
+            <h3 class="footer-title">Email</h3>
+              <p><span class="d-inline-block d-md-block">dk696@cornell.edu</p>
+          </div>
+
+          <div class="col-md-4">
+            <h3 class="footer-title">Curriculum vitae</h3>
+              <p><span class="d-inline-block d-md-block"><a href="pdfs/CV_dk_2021_3.pdf" target="_blank">CV_doyeonKIM_2021</a/></p>
+          </div>
+
+        </div>
+
+        <div class="row">
+          <div class="col-12 text-center">
+            </div>
+        </div>
+      </div>
+    </footer>
+
+  </div> <!-- .site-wrap -->
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/isotope.pkgd.min.js"></script>
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
